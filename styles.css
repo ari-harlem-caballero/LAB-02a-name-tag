@@ -3,6 +3,9 @@ body {
     color: rgb(201, 92, 201);
     width: 300px;
     text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin: 80px auto;
 }
 div {
     border: 12px solid lightgrey;
